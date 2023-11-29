@@ -4,7 +4,6 @@ import img6 from "../../assets/Google.svg"
 import { useFormik } from 'formik';
  import { Outlet, Link } from "react-router-dom";
  import { useNavigate } from "react-router-dom";
- import "./Form.css"
  import styled from 'styled-components';
  const ErrorMessage = styled.div`
  color: red;
